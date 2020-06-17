@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/ashEthank/mean_crud_app#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "moment": "^2.26.0",
+    "mongoose": "^5.9.19",
+    "morgan": "^1.10.0"
   }
 }
